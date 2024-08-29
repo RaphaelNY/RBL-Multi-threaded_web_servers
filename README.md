@@ -10,5 +10,6 @@
 2. Resolve a small number of HTTP requests
 3. Create a suitable HTTP request
 4. Using thread pools to improve server throughput
+5. elegantly shut up and clean
 
 > this may be not the best try
